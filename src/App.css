@@ -1,6 +1,6 @@
 
 body {
-  background-image: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/squares.png) 
+  background-image: url("./background.jpg") 
 }
   
 .box {
@@ -46,4 +46,9 @@ h1, h2, h3, h4 {
 
 h4 {
   margin-top: 0px;
+}
+
+.rules {
+  color: white;
+  font-size: smaller;
 }
