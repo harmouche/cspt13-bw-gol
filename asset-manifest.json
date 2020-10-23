@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cspt13-bw-gol/static/css/main.b88da2bd.chunk.css",
+    "main.js": "/cspt13-bw-gol/static/js/main.96d83b8b.chunk.js",
+    "main.js.map": "/cspt13-bw-gol/static/js/main.96d83b8b.chunk.js.map",
+    "runtime-main.js": "/cspt13-bw-gol/static/js/runtime-main.71d24673.js",
+    "runtime-main.js.map": "/cspt13-bw-gol/static/js/runtime-main.71d24673.js.map",
+    "static/js/2.8b107139.chunk.js": "/cspt13-bw-gol/static/js/2.8b107139.chunk.js",
+    "static/js/2.8b107139.chunk.js.map": "/cspt13-bw-gol/static/js/2.8b107139.chunk.js.map",
+    "index.html": "/cspt13-bw-gol/index.html",
+    "precache-manifest.cf139f6317e24e66f1cd29ddda2855df.js": "/cspt13-bw-gol/precache-manifest.cf139f6317e24e66f1cd29ddda2855df.js",
+    "service-worker.js": "/cspt13-bw-gol/service-worker.js",
+    "static/css/main.b88da2bd.chunk.css.map": "/cspt13-bw-gol/static/css/main.b88da2bd.chunk.css.map",
+    "static/js/2.8b107139.chunk.js.LICENSE.txt": "/cspt13-bw-gol/static/js/2.8b107139.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/cspt13-bw-gol/static/media/background.67f8fba6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71d24673.js",
+    "static/js/2.8b107139.chunk.js",
+    "static/css/main.b88da2bd.chunk.css",
+    "static/js/main.96d83b8b.chunk.js"
+  ]
+}
